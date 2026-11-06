@@ -1,0 +1,25 @@
+ARK FPS BOOSTER  v2.0
+=====================
+Fuer ARK: Survival Evolved und ARK: Survival Ascended (Windows 10/11)
+
+STARTEN
+1. Doppelklick auf "ARK FPS Booster starten.bat".
+2. Die Windows-Abfrage (Administratorrechte) mit "Ja" bestaetigen.
+3. Profil waehlen (Sicher / Empfohlen / Maximum) oder Schalter selbst setzen.
+4. "1-KLICK BOOST" druecken.
+
+FUNKTIONEN
+- Live-Monitor: CPU, RAM, GPU-Last, GPU-Temperatur, Grafikspeicher, ARK-Status
+- Profile + deine Auswahl wird beim Schliessen gespeichert
+- Auto-Boost: startet ARK, bekommt es sofort hohe Prioritaet + RAM wird aufgeraeumt
+  (solange der Booster offen ist)
+- Windows-Tweaks, ARK-Tweaks, Grafik-Configs, Intro-Videos ueberspringen (ASE)
+- Hintergrundprogramme (Browser, Launcher, OneDrive ...) erkennen und schliessen
+- Ping-Test, DNS-Cache leeren, Systeminfo
+- "Alles rueckgaengig machen" stellt jede Aenderung wieder her
+
+WICHTIG
+- ARK vor dem Boost schliessen (sonst ueberschreibt ARK die Grafik-Configs beim Beenden).
+- ARK muss mindestens einmal gestartet worden sein, damit die Config-Dateien existieren.
+- Sicherungen, Einstellungen und Protokoll: %APPDATA%\ArkFpsBooster
+- GPU-Werte im Monitor gibt es nur mit NVIDIA-Grafikkarte.
